@@ -48,9 +48,6 @@ obj/
 .gradle/
 
 # Android Studio 4+ specific
-.idea/caches/
-.idea/libraries/
-.idea/modules.xml
-.idea/workspace.xml
-.idea/navEditor.xml
-.idea/assetWizardSettings.xml
+.idea/
+app/release/
+app/build/
