@@ -1,15 +1,56 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
 local.properties
+
+# Log files
+*.log
+
+# Android Studio files
+.idea/
+*.iml
+
+# Keystore files (IMPORTANT - do not share)
+*.jks
+*.keystore
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB outputs
+*.apk
+*.aab
+
+# Google Services (optional - if contains secrets)
+google-services.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java compiled files
+*.class
+
+# Navigation editor temp files
+.navigation/
+
+# Signing configs (if any)
+signingConfigs/
+
+# NDK
+obj/
+
+# Build cache
+.gradle/
+
+# Android Studio 4+ specific
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
