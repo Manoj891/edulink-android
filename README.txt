@@ -11,4 +11,4 @@ Website loaded:
 https://softwareghar.com/
 
 Main editable file:
-app/src/main/java/com.ms.ware.online.solution.edulink9005/MainActivity.java
+app/src/main/java/com.ms.ware.online.solution.edulink/MainActivity.java

@@ -1,4 +1,4 @@
-package com.ms.ware.online.solution.edulink9005;
+package com.ms.ware.online.solution.edulink;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 //        webView.loadUrl("https://softwareghar.com/");
-        webView.loadUrl("https://infoweb.com.np/ms-ware/Login?path=9005&doc=9005Document");
+        webView.loadUrl("https://infoweb.com.np");
 
         getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
             @Override
