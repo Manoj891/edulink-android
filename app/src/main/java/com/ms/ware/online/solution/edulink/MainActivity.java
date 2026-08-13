@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 //        webView.loadUrl("https://softwareghar.com/");
-        webView.loadUrl("https://infoweb.com.np");
+        webView.loadUrl("https://infoweb.com.np/ms-ware/Login?path=9008&doc=9008Document");
 
         getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
             @Override
