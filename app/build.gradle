@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ms.ware.online.solution.edulink'
+    namespace 'com.ms.ware.online.solution.edulink9008'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.ms.ware.online.solution.edulink"
+        applicationId "com.ms.ware.online.solution.edulink9008"
         minSdk 24
         targetSdk 35
         versionCode 1

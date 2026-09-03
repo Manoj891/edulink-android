@@ -1,4 +1,4 @@
-package com.ms.ware.online.solution.edulink;
+package com.ms.ware.online.solution.edulink9008;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
